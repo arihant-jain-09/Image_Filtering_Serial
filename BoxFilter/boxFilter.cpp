@@ -4,10 +4,6 @@
 #include <string>
 #include <stdio.h>
 
-#define BLOCK_SIZE      16
-#define FILTER_WIDTH    3       
-#define FILTER_HEIGHT   3       
-
 using namespace std;
 using namespace cv;
 struct timeval t1, t2;
